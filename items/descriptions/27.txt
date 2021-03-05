@@ -1,0 +1,5 @@
+Cull
+
+7 Attack Damage
+Attacks restore 3 Health per hit.
+Reap: Killing a lane minion grants 1 additional gold. Killing 100 lane minions grants an additional 350 bonus gold immediately and disables Reap.

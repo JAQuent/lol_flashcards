@@ -1,0 +1,10 @@
+Liandry's Anguish
+
+80 Ability Power
+600 Mana
+20 Ability Haste
+Torment: Dealing damage with Abilities causes enemies to burn for (15 + 1.5% Ability Power) + 1% max Health magic damage per second for 4 seconds. Whilst burning, they lose 5% Magic Resist per second (max reduction 15%).
+
+Mythic Passive: Grants all other Legendary items 5 Ability Haste.
+
+Cost: 3400 (1200)

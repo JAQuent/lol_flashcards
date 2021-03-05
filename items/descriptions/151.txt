@@ -1,0 +1,13 @@
+Imperial Mandate
+
+40 Ability Power
+200 Health
+20 Ability Haste
+100% Base Mana Regen
+Coordinated Fire: Abilities that Slow or Immobilize a champion deal 36 - 60 (based on level) bonus magic damage and marks them for 4 seconds. (6s cooldown per champion) Ally champion damage detonates the mark, dealing an additional 90 - 150 (based on ally level) magic damage and granting you both 20% Move Speed for 2 seconds.
+
+Mythic Passive: Grants all other Legendary items 15 Ability Power.
+
+Strength of level-scaling effects are based on the ally's level.
+
+Cost: 2500 (750)

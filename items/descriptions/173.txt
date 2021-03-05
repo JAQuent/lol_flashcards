@@ -1,0 +1,15 @@
+Stridebreaker
+
+45 Attack Damage
+20% Attack Speed
+300 Health
+20 Ability Haste
+
+Active - Halting Slash: Lunge a short distance and deal (100% Attack Damage) physical damage to nearby enemies, Slowing them by 60%, decaying over 2 seconds (20s cooldown, reduced by Ability Haste).
+Heroic Gait: Dealing physical damage grants 30 Move Speed for 2 seconds.
+
+Mythic Passive: Grants all other Legendary items 3% Move Speed.
+
+Halting Slash's dash cannot pass through terrain.
+
+Cost: 3300 (200)

@@ -1,0 +1,9 @@
+Zhonya's Hourglass
+
+65 Ability Power
+45 Armor
+10 Ability Haste
+
+Active - Stasis: You become Invulnerable and Untargetable for 2.5 seconds, but are prevented from taking any other actions during this time (120s cooldown).
+
+Cost: 2600 (50)

@@ -1,0 +1,10 @@
+Archangel's Staff
+
+65 Ability Power
+500 Mana
+Awe: Gain bonus Ability Power equal to 3% of bonus Mana.
+Mana Charge: Strike a target with an Ability to consume a charge and gain 3 bonus Mana. Bonus Mana gain doubled if the target is a champion. This item transforms into Seraph's Embrace once 360 bonus Mana has been granted.
+
+Gain a new Mana Charge every 8 seconds (max 4).
+
+Cost: 3000 (915)

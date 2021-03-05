@@ -1,0 +1,12 @@
+Knight's Vow
+
+400 Health
+10 Ability Haste
+300% Base Health Regen
+
+Active - Pledge: Designate an ally who is Worthy (60s cooldown).
+Sacrifice: While your Worthy ally is nearby, redirect 15% of damage they take to you and if they have less than 50% Health gain 35% Move Speed when running towards them.
+
+Champions can only be linked by one Knight's Vow at a time. Damage redirection stops if you have less than 30% Health
+
+Cost: 2300 (700)

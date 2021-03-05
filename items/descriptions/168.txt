@@ -1,0 +1,10 @@
+Death's Dance
+
+50 Attack Damage
+40 Armor
+15 Ability Haste
+Ignore Pain: 35% (15% for Ranged users) of physical damage taken is dealt to you over 3 seconds instead.
+Defy: Champion takedowns cleanse Ignore Pain's remaining damage pool, grant you 30% Move Speed for 2 seconds and restore 10% of max Health over the duration.
+
+
+Cost: 3100 (325)

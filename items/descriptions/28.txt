@@ -1,0 +1,7 @@
+Health Potion
+
+Active - Consume: Drink the potion to restore 150 Health over 15 seconds.
+
+You may carry up to 5 Health Potions.
+
+Cost: 50 (50)

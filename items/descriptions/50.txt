@@ -1,0 +1,7 @@
+Infinity Edge
+
+70 Attack Damage
+20% Critical Strike Chance
+Perfection: If you have at least 60% Critical Strike Chance, gain 35% Critical Strike Damage.
+
+Cost: 3400 (625)

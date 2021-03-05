@@ -1,0 +1,18 @@
+The Golden Spatula
+
+70 Attack Damage
+120 Ability Power
+50% Attack Speed
+30% Critical Strike Chance
+250 Health
+30 Armor
+30 Magic Resist
+250 Mana
+20 Ability Haste
+10% Move Speed
+10% Life Steal
+100% Base Health Regen
+100% Base Mana Regen
+Doing Something: You are permanently On Fire!
+
+Cost: 7487 (687)

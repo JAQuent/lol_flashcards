@@ -1,0 +1,12 @@
+Sunfire Aegis
+
+350 Health
+30 Armor
+30 Magic Resist
+15 Ability Haste
+Immolate: Taking or dealing damage causes you to begin dealing (20 - 40 (based on level) + 1% bonus Health) magic damage per second to nearby enemies (increased by 25% against minions and 100% against monsters) for 3 seconds. Damaging Champions or Epic Monsters with this effect adds a stack, increasing subsequent Immolate damage by 10% for 5 seconds (max stacks 6).
+Flametouch: At maximum Immolate stacks, your Attacks burn nearby enemies for your Immolate damage per second for 3 seconds.
+
+Mythic Passive: Grants all other Legendary items 5% Tenacity and Slow Resist.
+
+Cost: 3200 (600)

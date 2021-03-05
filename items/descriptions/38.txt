@@ -1,0 +1,7 @@
+Elixir of Wrath
+
+Active - Consume: Drink to gain 30 Attack Damage and 15% Physical Vamp (against champions) for 3 minutes.
+
+Drinking a different Elixir will replace the existing one's effects.
+
+Cost: 500 (500)

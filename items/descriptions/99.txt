@@ -1,0 +1,6 @@
+Mobility Boots
+
+25 Move Speed
+When out of combat for at least 5 seconds, increase this item's effect to 115.
+
+Cost: 1000 (700)

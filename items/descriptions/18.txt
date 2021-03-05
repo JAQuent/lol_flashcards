@@ -1,0 +1,6 @@
+Recurve Bow
+
+25% Attack Speed
+Steeltipped: Attacks apply 15 physical damage On-Hit.
+
+Cost: 1000 (400)

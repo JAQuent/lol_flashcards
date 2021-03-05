@@ -1,0 +1,7 @@
+Plated Steelcaps
+
+20 Armor
+45 Move Speed
+Reduces incoming damage from Attacks by 12%.
+
+Cost: 1100 (500)

@@ -1,0 +1,5 @@
+Long Sword
+
+10 Attack Damage
+
+Cost: 350 (350)

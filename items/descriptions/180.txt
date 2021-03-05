@@ -1,0 +1,13 @@
+Turbo Chemtank
+
+350 Health
+25 Armor
+25 Magic Resist
+20 Ability Haste
+
+Active - Supercharged: Grants 75% Move Speed towards enemies or enemy turrets for 4 seconds. Once near an enemy (or after 4 seconds) a shockwave is emitted that Slows nearby champions by 40% for 1.5 seconds (90s cooldown).
+Immolate: Taking or dealing damage causes you to begin dealing (20 - 40 (based on level) + 1% bonus Health) magic damage per second to nearby enemies (increased by 25% against minions and 150% against monsters) for 3 seconds.
+
+Mythic Passive: Grants all other Legendary items 5 Ability Haste
+
+Cost: 2800 (950)

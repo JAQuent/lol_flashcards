@@ -1,0 +1,9 @@
+Spirit Visage
+
+450 Health
+40 Magic Resist
+10 Ability Haste
+100% Base Health Regen
+Boundless Vitality: Increases all Healing and Shielding effectiveness on you by 25%.
+
+Cost: 2900 (850)

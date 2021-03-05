@@ -1,0 +1,8 @@
+Sanguine Blade
+
+50 Attack Damage
+10 Lethality
+12 Physical Vamp
+Frenzy: While near one or fewer visible enemy champions gain 8 Lethality and 20% - 80% Attack Speed, decaying over 3 seconds if other enemy champions get too close.
+
+Cost: 3000 (1000)

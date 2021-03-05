@@ -1,0 +1,7 @@
+Hearthbound Axe
+
+15 Attack Damage
+15% Attack Speed
+Nimble: Attacking a unit grants (20 | 10 for Ranged champions) Move Speed for 2 seconds.
+
+Cost: 1100 (450)

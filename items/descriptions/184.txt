@@ -1,0 +1,11 @@
+Immortal Shieldbow
+
+55 Attack Damage
+20% Attack Speed
+20% Critical Strike Chance
+12% Life Steal
+Lifeline: When taking damage that would reduce you below 30% Health, gain a 250 - 700 Shield for 3s. In addition, gain 15% Life Steal for 8s (90s cooldown).
+
+Mythic Passive: Grants all other Legendary items 5 Attack Damage and 50 Health.
+
+Cost: 3400 (600)

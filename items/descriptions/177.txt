@@ -1,0 +1,11 @@
+Everfrost
+
+80 Ability Power
+250 Health
+600 Mana
+20 Ability Haste
+
+Active - Glaciate: Deal (125+35% Ability Power) magic damage in a cone, Slowing enemies by 65% for 1.5 seconds. Enemies at the center of the cone are Rooted instead. (20s ).Mythic Passive: Grants all other Legendary items 15 Ability Power.
+
+
+Cost: 3400 (450)

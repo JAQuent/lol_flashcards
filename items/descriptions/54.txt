@@ -1,0 +1,8 @@
+Seraph's Embrace
+
+65 Ability Power
+860 Mana
+Awe: Gain bonus Ability Power equal to 5% bonus Mana.
+Empyrean: Increase your total Mana by 5% (+2.5% per 100 Ability Power).
+
+Cost: 3000 (3000)

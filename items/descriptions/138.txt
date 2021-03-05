@@ -1,0 +1,12 @@
+Spellthief's Edge
+
+8 Ability Power
+10 Health
+50% Base Mana Regen
+2 Gold Per 10 Seconds
+Tribute: While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 30 seconds.
+Quest: Earn 500 gold from this item to transform it into Frostfang, gaining Active - Warding.
+
+This item grants reduced gold from minions if you kill excessive numbers of them.
+
+Cost: 400 (400)

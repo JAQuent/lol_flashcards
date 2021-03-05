@@ -1,0 +1,8 @@
+Navori Quickblades
+
+60 Attack Damage
+20% Critical Strike Chance
+30 Ability Haste
+Deft Strikes: Your critical strikes with Attacks reduce your non-Ultimate Ability cooldowns by 20% of their remaining cooldown.
+
+Cost: 3400 (825)

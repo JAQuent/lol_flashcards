@@ -1,0 +1,12 @@
+Divine Sunderer
+
+40 Attack Damage
+400 Health
+20 Ability Haste
+Spellblade: After using an Ability, your next Attack is enhanced with an additional 10% target max Health physical damage (1.5s cooldown). If the target is a champion, restore 50% of the enhanced damage (30% for Ranged owners).
+
+Mythic Passive: Grants all other Legendary items 5% Armor Penetration and 5% Magic Penetration.
+
+Spellblade will deal a minimum of (150% base Attack Damage) damage to units, but no more than (250% base Attack Damage) damage to Monsters.
+
+Cost: 3300 (700)

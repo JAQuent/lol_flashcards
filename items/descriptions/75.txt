@@ -1,0 +1,8 @@
+Tiamat
+
+25 Attack Damage
+Cleave: Attacks deal up to (60% Attack Damage) physical damage to other nearby enemies.
+
+Minimum of (12% Attack Damage) damage to enemies furthest away.
+
+Cost: 1200 (325)

@@ -1,0 +1,8 @@
+Guardian's Orb
+
+40 Ability Power
+150 Health
+Recovery: Restores 10 Mana every 5 seconds. If you can't gain mana, restores 15 Health instead.
+Legendary: This item counts as a Legendary item.
+
+Cost: 950 (950)

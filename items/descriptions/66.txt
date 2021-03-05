@@ -1,0 +1,6 @@
+Winged Moonplate
+
+150 Health
+Flight: Grants 5% Move Speed.
+
+Cost: 800 (400)

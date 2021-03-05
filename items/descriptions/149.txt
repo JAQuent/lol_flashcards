@@ -1,0 +1,12 @@
+Black Mist Scythe
+
+20 Attack Damage
+75 Health
+100% Base Mana Regen
+3 Gold Per 10 Seconds
+
+Active - Ward: Place a Stealth Ward on the ground that is Invisible to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop.
+
+This item grants reduced gold from minions if you kill excessive numbers of them.
+
+Cost: 400 (400)

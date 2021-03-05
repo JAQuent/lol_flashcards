@@ -1,0 +1,6 @@
+Slightly Magical Footwear
+
+25 Move Speed
+Grants an additional 10 Move Speed. Boots that build from Slightly Magical Footwear retain this bonus Move Speed.
+
+Cost: 300 (300)

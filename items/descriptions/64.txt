@@ -1,0 +1,6 @@
+Sheen
+
+
+Spellblade: After using an Ability, your next Attack is enhanced with an additional (100% base Attack Damage) physical damage (1.5s cooldown).
+
+Cost: 700 (700)

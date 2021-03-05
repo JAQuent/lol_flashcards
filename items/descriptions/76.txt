@@ -1,0 +1,12 @@
+Trinity Force
+
+25 Attack Damage
+35% Attack Speed
+200 Health
+20 Ability Haste
+Threefold Strike: Attacks grant 25 Move Speed for 3 seconds. If the target is a champion, increase your base Attack Damage by 6% for 3 seconds, stacking up to 5 times (Max increase 30% AD).
+Spellblade: After using an Ability, your next Attack is enhanced with an additional (200% base Attack Damage) physical damage (1.5s cooldown).
+
+Mythic Passive: Grants all other Legendary items 10 Attack Speed.
+
+Cost: 3333 (733)

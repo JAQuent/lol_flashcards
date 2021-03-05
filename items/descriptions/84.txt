@@ -1,0 +1,10 @@
+Stormrazor
+
+40 Attack Damage
+15% Attack Speed
+20% Critical Strike Chance
+Energized: Moving and Attacking will generate an Energized Attack.
+Paralyze: Your Energized Attack gains 120 bonus magic damage. In addition, Energized Attacks slow enemies by 75% for 0.5 seconds.
+
+
+Cost: 2700 (100)

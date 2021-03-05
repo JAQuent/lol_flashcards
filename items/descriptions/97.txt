@@ -1,0 +1,7 @@
+Nashor's Tooth
+
+100 Ability Power
+50% Attack Speed
+Icathian Bite: Attacks apply (15 + 20% Ability Power) magic damage On-Hit.
+
+Cost: 3000 (715)

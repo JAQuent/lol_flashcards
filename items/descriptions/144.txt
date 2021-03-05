@@ -1,0 +1,12 @@
+Relic Shield
+
+5 Ability Power
+30 Health
+25% Base Health Regen
+2 Gold Per 10 Seconds
+Spoils of War: While nearby an allied champion, Attacks execute minions below (50% for Melee Users | 30% for Ranged Users) of their max Health. Killing a minion grants the same kill gold to the nearest allied champion. These effects recharge every 35 seconds (Max 3 charges).
+Quest: Earn 500 gold from this item to transform it into Targon's Buckler, gaining Active - Warding.
+
+This item grants reduced gold from minions if you kill excessive numbers of them.
+
+Cost: 400 (400)

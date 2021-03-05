@@ -1,0 +1,11 @@
+Emberknife
+
+10% Omnivamp vs. Monsters
+Sear: Damaging Monsters burns them for (60 + 30% Ability Power + 5% bonus Attack Damage + 2% bonus Health) magic damage over 5 seconds.
+Challenging Path: Smiting 5 times consumes this item upgrade your Smite to Challenging Smite. Challenging Smite marks champions for 4 seconds. During this time, you deal 48 - 125 (based on level) bonus true damage to them over 2.5 seconds on hit and take 20% reduced damage from them.
+Huntsman: Killing Large Monsters grants bonus experience.
+Recoup: Regen up to 8 - 18 (based on level) mana per second when in the Jungle or River.
+
+Consuming this item grants all item effects permanently. If you have gained more gold from minions than jungle monsters, gold and experience from minions is heavily reduced. Healing is not reduced on AoE attacks.
+
+Cost: 350 (350)

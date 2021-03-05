@@ -1,0 +1,11 @@
+Rapid Firecannon
+
+35% Attack Speed
+20% Critical Strike Chance
+7% Move Speed
+Energized: Moving and Attacking will generate an Energized Attack.
+Sharpshooter: Your Energized Attack applies 120 bonus magic damage. In addition, Energized attacks gain up to 35% bonus Attack Range.
+
+Attack Range cannot increase more than 150 units.
+
+Cost: 2500 (750)

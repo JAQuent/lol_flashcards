@@ -1,0 +1,6 @@
+Kindlegem
+
+200 Health
+10 Ability Haste
+
+Cost: 800 (400)

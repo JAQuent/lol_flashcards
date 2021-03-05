@@ -1,0 +1,12 @@
+Night Harvester
+
+90 Ability Power
+300 Health
+15 Ability Haste
+Soulrend: Damaging a champion deals an additional (125 +15% Ability Power magic damage) and grants you 25% Move Speed for 1.5 seconds (40s cooldown per champion).
+
+Mythic Passive: Grants all other Legendary items 5 Ability Haste.
+
+Damaging a new champion will extend the duration of the Move Speed bonus.
+
+Cost: 3200 (900)

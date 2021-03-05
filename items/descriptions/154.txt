@@ -1,0 +1,8 @@
+Horizon Focus
+
+115 Ability Power
+Hypershot: Damaging a champion with a non-targeted Ability at over 700 range or Immobilizing them Reveals them and increases their damage taken from you by 10% for 6 seconds.
+
+The Ability that triggers Hypershot also benefits from the damage increase. Pets and non-immobilizing traps do not trigger this effect. Only the initial placement of zone Abilities will trigger this effect. Distance is measured from the Ability cast position.
+
+Cost: 3000 (700)

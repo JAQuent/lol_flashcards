@@ -1,0 +1,8 @@
+Essence Reaver
+
+55 Attack Damage
+20% Critical Strike Chance
+20 Ability Haste
+Spellblade: After using an Ability, your next Attack is enhanced with an additional (100% base Attack Damage + 40% bonus Attack Damage) physical damage and restores 40% of this damage as Mana (1.5s cooldown).
+
+Cost: 2900 (500)

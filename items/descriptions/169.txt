@@ -1,0 +1,10 @@
+Chempunk Chainsword
+
+45 Attack Damage
+250 Health
+15 Ability Haste
+Hackshorn: Dealing physical damage applies 40% Grievous Wounds to enemy champions for 3 seconds. If the target is below 50% Health, this effect is increased to 60% Grievous Wounds.
+
+Grievous Wounds reduces the effectiveness of Healing and Regeneration effects.
+
+Cost: 2600 (300)

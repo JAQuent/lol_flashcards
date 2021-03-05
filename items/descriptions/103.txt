@@ -1,0 +1,6 @@
+Serrated Dirk
+
+30 Attack Damage
+Gouge: Gain 10 Lethality.
+
+Cost: 1100 (400)

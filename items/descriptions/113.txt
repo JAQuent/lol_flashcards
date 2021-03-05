@@ -1,0 +1,8 @@
+Maw of Malmortius
+
+50 Attack Damage
+50 Magic Resist
+15 Ability Haste
+Lifeline: Upon taking magic damage that would reduce Health below 30%, gain (200 + 20% max Health) magic damage Shield for 5 seconds (60s cooldown).
+
+Cost: 3100 (700)

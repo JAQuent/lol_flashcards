@@ -1,0 +1,10 @@
+Randuin's Omen
+
+250 Health
+80 Armor
+10 Ability Haste
+
+Active: Humility: Briefly Slow nearby enemies and reduce their Attack Damage by 10% and Critical Strike Damage by 20% for 4 seconds (60s cooldown).
+Rock Solid: Reduce incoming damage from Attacks by up to (0.5% max Health), capped at 40% of the attack's damage.
+
+Cost: 2700 (600)

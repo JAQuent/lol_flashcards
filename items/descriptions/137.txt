@@ -1,0 +1,10 @@
+Edge of Night
+
+50 Attack Damage
+10 Lethality
+325 Health
+Annul: Gain a Spell Shield that blocks the next enemy Ability (40s cooldown).
+
+Item's cooldown is restarted if you take damage before it is completed.
+
+Cost: 2900 (1050)

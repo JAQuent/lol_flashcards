@@ -1,0 +1,5 @@
+Faerie Charm
+
+50% Base Mana Regen
+
+Cost: 250 (250)

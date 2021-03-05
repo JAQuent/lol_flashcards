@@ -1,0 +1,5 @@
+Pickaxe
+
+25 Attack Damage
+
+Cost: 875 (875)

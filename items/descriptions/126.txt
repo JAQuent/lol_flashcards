@@ -1,0 +1,9 @@
+Scarecrow Effigy
+
+Cannot be sold
+
+Active - Trinket: Places an effigy that lasts for 130 - 300 (based on level) seconds and appears exactly as Fiddlesticks does to enemies. Stores one charge every 115 - 30 (based on level) seconds, up to maximum 2 charges.
+
+Enemy champions approaching an effigy will activate it, causing the effigy to fake a random action, after which the effigy will fall apart.
+
+Cost: 0 (0)

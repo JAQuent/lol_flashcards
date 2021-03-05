@@ -1,0 +1,10 @@
+Kraken Slayer
+
+65 Attack Damage
+25% Attack Speed
+20% Critical Strike Chance
+Bring It Down: Every third Attack deals an additional (60 + 45% bonus Attack Damage) true damage.
+
+Mythic Passive: Grants all other Legendary items 10% Attack Speed.
+
+Cost: 3400 (625)

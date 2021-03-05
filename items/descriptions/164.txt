@@ -1,0 +1,7 @@
+Bandleglass Mirror
+
+20 Ability Power
+10 Ability Haste
+50% Base Mana Regen
+
+Cost: 950 (265)

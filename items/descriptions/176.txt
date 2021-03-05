@@ -1,0 +1,11 @@
+Luden's Tempest
+
+80 Ability Power
+6 Magic Penetration
+600 Mana
+20 Ability Haste
+Echo: Damaging Abilities deal an additional (100 + 10% Ability Power) magic damage to the target and 3 nearby enemies and grants you 15% Move Speed for 2 seconds (10s cooldown).
+
+Mythic Passive: Grants all other Legendary items 5 Magic Penetration.
+
+Cost: 3400 (1250)

@@ -1,0 +1,11 @@
+Mortal Reminder
+
+25 Attack Damage
+25% Attack Speed
+20% Critical Strike Chance
+7% Move Speed
+Sepsis: Dealing physical damage applies 40% Grievous Wounds to enemy champions for 3 seconds. Dealing 3 consecutive Attacks to an enemy champion enhances this effect to 60% Grievous Wounds against them until the effect is allowed to elapse.
+
+Grievous Wounds reduces the effectiveness of Healing and Regeneration effects.
+
+Cost: 2500 (650)

@@ -1,0 +1,8 @@
+Guinsoo's Rageblade
+
+45% Attack Speed
+20% Critical Strike Chance
+Wrath: Your Critical Strike Chance is converted into On-Hit damage. Gain 40 On-Hit for each 20% Critical Strike Chance converted.
+Seething Strike: Every third Attack applies your On-Hit effects twice.
+
+Cost: 2800 (1100)

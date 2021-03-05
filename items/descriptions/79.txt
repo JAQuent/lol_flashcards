@@ -1,0 +1,10 @@
+Runaan's Hurricane
+
+45% Attack Speed
+20% Critical Strike Chance
+7% Move Speed
+Wind's Fury: When Attacking, bolts are fired at up to 2 enemies near the target, each dealing (40% () Attack Damage) physical damage. Bolts apply On-Hit effects and can Critically Strike.
+
+Item is for Ranged champions only.
+
+Cost: 2600 (950)

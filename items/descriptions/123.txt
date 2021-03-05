@@ -1,0 +1,12 @@
+Gargoyle Stoneplate
+
+60 Armor
+60 Magic Resist
+15 Ability Haste
+
+Active - Unbreakable: Gain a (100 + 100% bonus Health) Shield that decays and grow 25% in size for 2.5 seconds. (90s cooldown).
+Fortify: Taking damage from a champion grants a stack of 5% bonus Armor and 5% bonus Magic Resist for 6 seconds.
+
+Max 5 stacks; 1 per champion.
+
+Cost: 3300 (1050)

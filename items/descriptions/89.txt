@@ -1,0 +1,6 @@
+Fiendish Codex
+
+35 Ability Power
+10 Ability Haste
+
+Cost: 900 (465)

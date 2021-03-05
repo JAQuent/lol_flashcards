@@ -1,0 +1,8 @@
+The Collector
+
+55 Attack Damage
+20% Critical Strike Chance
+12 Lethality
+Death and Taxes: Dealing damage that would leave an enemy champion below 5% Health executes them. Champion kills grant an additional 25 gold.
+
+Cost: 3000 (425)

@@ -1,0 +1,14 @@
+Galeforce
+
+60 Attack Damage
+20% Attack Speed
+20% Critical Strike Chance
+
+Active - Cloudburst: Dash in target direction, firing three missiles at the lowest Health enemy near your destination (prioritizing champions). Deals a total of (180 - 220 (based on level) + 45% bonus Attack Damage) magic damage, increased against low Health targets by up to 50% (90s cooldown).
+
+Mythic Passive: Grants all other Legendary items 3% Move Speed.
+
+Maximum missile damage dealt when enemy Health is below 30%.
+Cloudburst's dash cannot pass through terrain.
+
+Cost: 3400 (625)

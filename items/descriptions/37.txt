@@ -1,0 +1,7 @@
+Elixir of Sorcery
+
+Active - Consume: Drink to gain 50 Ability Power and 15% Mana Regen for 3 minutes. While active, damaging a champion or turret deals 25 bonus true damage (5s cooldown).
+
+Champion level 9 or greater required to purchase. Elixir of Sorcery's true damage effect has no cooldown when attacking turrets. Drinking a different Elixir will replace the existing one's effects.
+
+Cost: 500 (500)

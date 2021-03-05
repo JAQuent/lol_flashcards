@@ -1,0 +1,5 @@
+Oracle Lens
+
+Active - Trinket: Scans around you, warning against hidden enemy units, revealing invisible traps and revealing (and temporarily disabling) enemy Stealth Wards for 10 seconds (90 - 60s cooldown).
+
+Cost: 0 (0)

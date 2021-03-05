@@ -1,0 +1,10 @@
+Stirring Wardstone
+
+Arcane Cache: This item can store up to 3 purchased Control Wards.
+Blooming Empire: This item transforms into Watchful Wardstone once 20 Stealth Wards have been placed.
+
+Stealth Wards are placed from the Stealth Ward Trinket and the upgraded Unique: Support items.
+
+
+
+Cost: 1100 (1100)

@@ -1,0 +1,10 @@
+ 40 Attack Damage
+25% Attack Speed
+12% Life Steal
+Mist's Edge: Attacks apply physical damage On-Hit equal to (10% for Melee users | 6% for Ranged users) of the target's current Health.
+Siphon: Attacking a champion 3 times deals 40 - 150 (based on level) magic damage and steals 25% Move Speed for 2 seconds (20s cooldown).
+
+Maximum Mist's Edge damage dealt to monsters and minions is 60.
+Item performance differs for melee and ranged users.
+
+Cost: 3200 (425)

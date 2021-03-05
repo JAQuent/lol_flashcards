@@ -1,0 +1,9 @@
+Phage
+
+15 Attack Damage
+200 Health
+Sturdy: After you deal physical damage to a champion, restore 2% max Health over 6 seconds.
+
+Restoration reduced to 50% for Ranged users.
+
+Cost: 1100 (350)

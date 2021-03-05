@@ -1,0 +1,10 @@
+Vigilant Wardstone
+
+40 Ability Haste
+10% Move Speed
+Arcane Cache: This item can store up to 3 purchased Control Wards.
+Behold: Increase your Stealth Ward and Control Ward placement caps by 1.
+
+Requires Watchful Sightstone to purchase.
+
+Cost: 2300 (1200)

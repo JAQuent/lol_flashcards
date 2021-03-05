@@ -1,0 +1,7 @@
+Guardian Angel
+
+40 Attack Damage
+40 Armor
+Saving Grace: Upon taking lethal damage, restores 50% base Health and 30% max Mana after 4 seconds of stasis (300s cooldown).
+
+Cost: 2800 (50)

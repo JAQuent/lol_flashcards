@@ -1,0 +1,14 @@
+Moonstone Renewer
+
+40 Ability Power
+200 Health
+20 Ability Haste
+100% Base Mana Regen
+Starlit Grace: When affecting champions with Attacks or Abilities in combat, restore 50 - 100 (based on ally level) Health to the most wounded nearby ally (2s cooldown). Each second spent in combat with champions increases this healing effect by 12.5% (to a maximum of 50%).
+
+Mythic Passive: Grants all other Legendary items 5 Ability Haste.
+
+Strength of level-scaling effects are based on the ally's level.
+
+
+Cost: 2500 (750)

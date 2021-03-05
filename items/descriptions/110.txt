@@ -1,0 +1,13 @@
+Hextech Rocketbelt
+
+90 Ability Power
+350 Health
+15 Ability Haste
+
+Active - Hex Bolt: Dash in target direction, unleashing an arc of magic missiles that deal (125 +15% Ability Power) magic damage. Then, gain 30% Move Speed towards enemy champions for 1.5 seconds (40s cooldown).
+
+Mythic Passive: Grants all other Legendary items 5 Magic Penetration.
+
+Supersonic's dash cannot pass through terrain.
+
+Cost: 3200 (900)

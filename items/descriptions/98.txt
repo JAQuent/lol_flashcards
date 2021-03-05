@@ -1,0 +1,7 @@
+Rylai's Crystal Scepter
+
+90 Ability Power
+350 Health
+Rimefrost: Damaging Abilities Slow enemies by 30% for 1 second.
+
+Cost: 3000 (815)

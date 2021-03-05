@@ -1,0 +1,6 @@
+Boots of Swiftness
+
+60 Move Speed
+The strength of movement slowing effects is reduced by 25%.
+
+Cost: 900 (600)

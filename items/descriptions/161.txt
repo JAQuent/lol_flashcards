@@ -1,0 +1,7 @@
+Demonic Embrace
+
+70 Ability Power
+350 Health
+Azakana Gaze: Dealing Ability damage burns enemies for 1.2% max Health magic damage every second for 4 seconds. You gain 10 Armor and Magic Resist if a champion is affected (+2.5 Armor and Magic Resist for each additional champion affected).
+
+Cost: 3000 (815)

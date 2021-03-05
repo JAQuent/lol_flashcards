@@ -1,0 +1,14 @@
+Shurelya's Battlesong
+
+40 Ability Power
+200 Health
+20 Ability Haste
+100% Base Mana Regen
+
+Active - Inspire: Grants you and nearby allies 60% decaying Move Speed for 4 seconds. Champions gain an additional 35 - 55 (based on ally level) magic damage on the next 3 Attacks or Ability hits against champions (90s cooldown).
+
+Mythic Passive: Grants all other Legendary items 2.5% Move Speed.
+
+Strength of level-scaling effects are based on the ally's level.
+
+Cost: 2500 (750)

@@ -1,0 +1,7 @@
+Elixir of Iron
+
+Active - Consume: Drink to gain 300 Health, 25% Tenacity, and increased champion size for 3 minutes. While active, moving leaves a path behind that boosts allied champions' Move Speed by 15%.
+
+Drinking a different Elixir will replace the existing one's effects.
+
+Cost: 500 (500)

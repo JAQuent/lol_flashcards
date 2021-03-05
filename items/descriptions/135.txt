@@ -1,0 +1,6 @@
+Crystalline Bracer
+
+200 Health
+50% Base Health Regen
+
+Cost: 650 (100)

@@ -1,0 +1,7 @@
+Abyssal Mask
+
+350 Health
+60 Magic Resist
+Unmake: Immobilizing a champion causes them to take 10% increased damage for 4 seconds.
+
+Cost: 2700 (900)

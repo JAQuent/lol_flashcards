@@ -1,0 +1,10 @@
+Staff of Flowing Water
+
+50 Ability Power
+10% Heal and Shield Power
+100% Base Mana Regen
+Rapids: Healing or Shielding an ally grants you both 15% Move Speed and 20 - 40 (ally ) Ability Power for 3 seconds.
+
+Strength of level-scaling effects are based on the ally's level.
+
+Cost: 2300 (630)

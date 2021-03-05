@@ -1,0 +1,7 @@
+Spectre's Cowl
+
+250 Health
+25 Magic Resist
+Incorporeal: After taking damage from a champion, gain 150% base Health Regen for up to 10 seconds (duration increases with damage taken).
+
+Cost: 1250 (400)

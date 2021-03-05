@@ -1,0 +1,8 @@
+Doran's Ring
+
+15 Ability Power
+70 Health
+Focus: Attacks deal an additional 5 physical damage to minions.
+Siphon: Killing a minion restores 6 Mana. If you can't gain Mana, restore 3 Health instead.
+
+Cost: 400 (400)

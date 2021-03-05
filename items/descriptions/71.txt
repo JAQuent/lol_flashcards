@@ -1,0 +1,8 @@
+Bloodthirster
+
+55 Attack Damage
+20% Critical Strike Chance
+20% Life Steal
+Ichorshield: Life Steal from Attacks can now overheal you. Excess Health is stored as a 50 - 350 (based on level) Shield that decays slowly if you haven't dealt or taken damage in the last 25 seconds.
+
+Cost: 3400 (600)

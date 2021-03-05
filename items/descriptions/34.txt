@@ -1,0 +1,3 @@
+Control Ward
+
+Active - Consume: Places a powerful Control Ward that grants vision of the surrounding area. This device will also reveal Invisible traps, reveal Camouflaged enemies, and reveal (and disable) enemy Stealth Wards.

@@ -1,0 +1,6 @@
+Last Whisper
+
+20 Attack Damage
+20% Armor Penetration
+
+Cost: 1450 (750)

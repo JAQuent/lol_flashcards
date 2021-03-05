@@ -1,0 +1,11 @@
+Ravenous Hydra
+
+65 Attack Damage
+20 Ability Haste
+10% Omnivamp
+Cleave: Attacks and Abilities deal up to (60% Attack Damage) physical damage to other enemies near target hit.
+
+Deals a minimum of (12% Attack Damage) damage to units at the end of its range, can only hit each target once per Attack or Ability, and doesn't trigger off of periodic damage.
+
+
+Cost: 3300 (100)

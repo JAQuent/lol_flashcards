@@ -1,0 +1,9 @@
+Muramana
+
+35 Attack Damage
+860 Mana
+15 Ability Haste
+Awe: Gain bonus Attack Damage equal to 2.5% max Mana.
+Shock: When targetting champions, Ability strikes and Attacks ( On-Hit) apply an additional (2.5% max Mana) physical damage.
+
+Cost: 2900 (2900)

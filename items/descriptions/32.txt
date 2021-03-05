@@ -1,0 +1,8 @@
+Guardian's Horn
+
+150 Health
+Recovery: Restores 20 Health every 5 seconds.
+Undaunted: Blocks 15 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities).
+Legendary: This item counts as a Legendary item.
+
+Cost: 950 (950)

@@ -1,0 +1,14 @@
+Frostfang
+
+15 Ability Power
+70 Health
+75% Base Mana Regen
+3 Gold Per 10 Seconds
+
+Active - Ward: Place a Stealth Ward on the ground that is Invisible to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop.
+Tribute: While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 30 seconds.
+Quest: Earn 1000 gold from this item to transform it into Shard of True Ice.
+
+This item grants reduced gold from minions if you kill excessive numbers of them.
+
+Cost: 400 (400)

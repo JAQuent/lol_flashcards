@@ -1,0 +1,7 @@
+Leeching Leer
+
+20 Ability Power
+250 Health
+5% Omnivamp
+
+Cost: 1300 (465)

@@ -1,0 +1,8 @@
+Warmog's Armor
+
+800 Health
+10 Ability Haste
+200% Base Health Regen
+Warmog's Heart: If you have at least 3000 maximum Health, restore 5% max Health per second if damage hasn't been taken within 6 seconds (3 seconds for non-Champions).
+
+Cost: 3000 (650)

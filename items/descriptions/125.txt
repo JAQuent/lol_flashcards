@@ -1,0 +1,10 @@
+Mikael's Blessing
+
+20% Heal and Shield Power
+50 Magic Resist
+15 Ability Haste
+100% Base Mana Regen
+
+Active - Purify: Remove all crowd control debuffs (except Knockups and Suppression) from an ally champion and restore 100 - 200 (based on ally level) Health (120s cooldown).
+
+Cost: 2300 (600)

@@ -1,0 +1,13 @@
+Zeke's Convergence
+
+250 Health
+25 Armor
+250 Mana
+20 Ability Haste
+
+Active - Conduit: Designate an Accomplice (60s cooldown).
+Convergence: For 8 seconds after you Immobilize an enemy, your Accomplice's Attacks ( On-Hit) and Ability hits apply an additional (30 - 70 (based on level) + 1.5% Health + 7.5% Ability Power) magic damage to that enemy.
+
+Champions can only be linked by one Zeke's Convergence at a time.
+
+Cost: 2400 (700)

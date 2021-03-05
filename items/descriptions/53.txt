@@ -1,0 +1,10 @@
+Lord Dominik's Regards
+
+35 Attack Damage
+20% Critical Strike Chance
+35% Armor Penetration
+Giant Slayer: Deal up to 15% bonus physical damage against champions with greater max Health than you.
+
+Max damage increase reached when Health difference is greater than 2000.
+
+Cost: 2900 (850)

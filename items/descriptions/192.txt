@@ -1,0 +1,9 @@
+Serpent's Fang
+
+55 Attack Damage
+18 Lethality
+Shield Reaver: Attacks and spells deal (70 + 40% bonus Attack Damage) additional physical damage to Shielded targets.
+
+Additional damage not applied to targets with shields that only block magic damage.
+
+Cost: 2600 (625)

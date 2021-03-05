@@ -1,0 +1,15 @@
+Locket of the Iron Solari
+
+200 Health
+20 Ability Haste
+30 Armor
+30 Magic Resist
+
+Active - Devotion: Grant nearby allies a 230 - 385 (based on ally level) Shield, decaying over 2.5 seconds (90s cooldown).
+Consecrate: Grant nearby allied champions 5 Armor and Magic Resist.
+
+Mythic Passive: Grants all other Legendary items 2 Armor/ Magic Resist increase to Consecrate.
+
+Strength of level-scaling effects are based on the ally's level.
+
+Cost: 2500 (200)

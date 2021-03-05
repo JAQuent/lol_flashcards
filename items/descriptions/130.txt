@@ -1,0 +1,10 @@
+Ardent Censer
+
+60 Ability Power
+10% Heal and Shield Power
+100% Base Mana Regen
+Sanctify: Healing or Shielding an ally enhances you both for 6 seconds, granting your Attacks 10% - 30% (based on ally level) Attack Speed and 5 - 20 (based on ally level) magic damage On-Hit.
+
+Strength of level-scaling effects are based on the ally's level.
+
+Cost: 2300 (630)

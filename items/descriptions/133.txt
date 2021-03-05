@@ -1,0 +1,12 @@
+Dead Man's Plate
+
+400 Health
+40 Armor
+5% Move Speed
+Shipwrecker: While moving, build up to 60 bonus Move Speed. Your next Attack discharges built up Move Speed to deal up to 100 magic damage. If dealt by a Melee champion at top speed, the Attack also Slows the target by 50% for 1 second.
+
+''There's only one way you'll get this armor from me...'' - forgotten namesake
+
+
+
+Cost: 2900 (900)

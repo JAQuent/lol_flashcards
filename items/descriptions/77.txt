@@ -1,0 +1,6 @@
+Warden's Mail
+
+40 Armor
+Rock Solid: Reduce incoming damage from Attacks by up to (0.5% max Health), capped at 40% of the attack's damage.
+
+Cost: 1000 (400)

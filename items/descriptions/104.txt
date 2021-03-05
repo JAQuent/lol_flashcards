@@ -1,0 +1,6 @@
+Void Staff
+
+65 Ability Power
+40% Magic Penetration
+
+Cost: 2500 (400)

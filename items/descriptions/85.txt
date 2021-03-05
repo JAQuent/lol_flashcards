@@ -1,0 +1,7 @@
+Lich Bane
+
+70 Ability Power
+10% Move Speed
+Spellblade: After using an Ability, your next Attack is enhanced with an additional (150% base Attack Damage + 40% Ability Power) magic damage (2.5s cooldown).
+
+Cost: 3000 (600)

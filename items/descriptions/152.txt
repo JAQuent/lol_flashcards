@@ -1,0 +1,8 @@
+Force of Nature
+
+350 Health
+60 Magic Resist
+5% Move Speed
+Absorb: Taking damage from Abilities grants you 8 Move Speed and 4 Magic Resist for 5 seconds (stacks up to 5 times; each unique Ability instance can give one stack).
+
+Cost: 2900 (800)

@@ -1,0 +1,5 @@
+Stopwatch
+
+Active - Stasis: Use one time only to become Invulnerable and Untargetable for 2.5 seconds, but are prevented from taking any other actions during this time (transforms into a Broken Stopwatch).
+
+Cost: 650 (650)

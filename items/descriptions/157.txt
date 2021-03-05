@@ -1,0 +1,9 @@
+Verdant Barrier
+
+25 Ability Power
+25 Magic Resist
+Adaptive: Killing a unit grants 0.5 Magic Resist (max 15).
+
+
+
+Cost: 1000 (115)

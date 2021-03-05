@@ -1,0 +1,11 @@
+Duskblade of Draktharr
+
+60 Attack Damage
+18 Lethality
+20 Ability Haste
+Nightstalker: Attacking a champion deals an additional (65 + 25% bonus Attack Damage) physical damage (15s cooldown). If dealt by a Melee champion, this Attack also Slows the target by 99% for 0.25 seconds. When a champion that you have damaged within the last 3 seconds dies, this cooldown is refreshed and you become Invisible for 1.5 seconds.
+
+Mythic Passive: Grants all other Legendary items 5 Ability Haste.
+
+
+Cost: 3200 (1000)

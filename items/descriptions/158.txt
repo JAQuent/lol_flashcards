@@ -1,0 +1,11 @@
+Riftmaker
+
+80 Ability Power
+300 Health
+15 Ability Haste
+8% Omnivamp
+Void Corruption: For each second damaging enemy champions, deal 2% bonus damage (max 10%). At maximum strength, the bonus damage is dealt as true damage instead.
+
+Mythic Passive: Grants all other Legendary items 2% Omnivamp and 8 Ability Power.
+
+Cost: 3200 (1050)

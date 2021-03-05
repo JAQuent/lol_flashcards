@@ -1,0 +1,10 @@
+Banshee's Veil
+
+80 Ability Power
+45 Magic Resist
+10 Ability Haste
+Annul: Grants a Spell Shield that blocks the next enemy Ability (40s cooldown).
+
+Item cooldown is restarted if you take damage from champions before it is completed.
+
+Cost: 2600 (700)

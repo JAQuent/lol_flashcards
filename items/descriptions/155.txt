@@ -1,0 +1,8 @@
+Cosmic Drive
+
+75 Ability Power
+200 Health
+20 Ability Haste
+Spelldance: If you have at least 160 Ability Power, gain 20 Ability Haste and 10 - 30 Move Speed.
+
+Cost: 3000 (865)

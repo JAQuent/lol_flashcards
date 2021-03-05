@@ -1,0 +1,10 @@
+Sterak's Gage
+
+50 Attack Damage
+400 Health
+Bloodlust: Dealing damage to or taking damage from a champion grants a stack, restoring (2% max Health | 1.2% max Health for Ranged champions) over 6 seconds.
+Lifeline: Upon taking damage that would reduce your Health below 30%, gain a 100 Shield (increased by (8% max Health | 4.8% max Health for Ranged champions) per stack of Bloodlust) for 4 seconds (60s cooldown).
+
+Bloodlust stacks up to 5 times; 1 per champion. Healing and bonus shielding reduced to 60% for Ranged users.
+
+Cost: 3100 (725)

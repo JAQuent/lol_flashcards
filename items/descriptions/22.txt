@@ -1,0 +1,9 @@
+Doran's Blade
+
+8 Attack Damage
+80 Health
+Warmonger: Gain 2.5% Omnivamp.
+
+Omnivamp is only 33% effective when dealing area of effect damage or damage through pets.
+
+Cost: 450 (450)

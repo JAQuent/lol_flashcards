@@ -1,0 +1,5 @@
+Refillable Potion
+
+Active - Consume: Consumes a charge to restore 125 Health over 12 seconds. Holds up to 2 charges and refills upon visiting the shop.
+
+Cost: 150 (150)

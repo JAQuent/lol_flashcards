@@ -1,0 +1,7 @@
+Kircheis Shard
+
+15% Attack Speed
+Energized: Moving and Attacking will generate an Energized Attack.
+Jolt: Energized Attacks gain an additional 80 magic damage.
+
+Cost: 700 (400)

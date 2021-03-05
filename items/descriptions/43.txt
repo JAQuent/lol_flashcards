@@ -1,0 +1,11 @@
+Manamune
+
+35 Attack Damage
+500 Mana
+15 Ability Haste
+Awe: Gain bonus Attack Damage equal to 2.5% max Mana.
+Mana Charge: Strike a target with an Attack or Ability to consume a charge and gain 3 bonus Mana. Bonus Mana gain doubled if the target is a champion. This item transforms into Muramana once 360 bonus Mana has been granted.
+
+Gain a new Mana Charge every 8 seconds (max 4).
+
+Cost: 2900 (1050)

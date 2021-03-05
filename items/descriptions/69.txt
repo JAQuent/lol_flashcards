@@ -1,0 +1,9 @@
+Tear of the Goddess
+
+240 Mana
+Focus: Attacks deal an additional 5 physical damage to Minions.
+Mana Charge: Strike a target with an Ability to consume a charge and gain 3 bonus Mana, up to a maximum of 360 bonus Mana. Bonus Mana doubled if the target is a champion.
+
+Gain a new Mana Charge every 8 seconds (max 4).
+
+Cost: 400 (400)

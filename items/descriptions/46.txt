@@ -1,0 +1,10 @@
+Chemtech Putrifier
+
+50 Ability Power
+20 Ability Haste
+100% Base Mana Regen
+Puffcap Toxin: Dealing magic damage applies 40% Grievous Wounds to champions for 3 seconds. Healing or shielding an ally will cause their next damage to enemy champions to apply 60% Grievous Wounds.
+
+Grievous Wounds reduces the effectiveness of Healing and Regeneration effects.
+
+Cost: 2300 (550)

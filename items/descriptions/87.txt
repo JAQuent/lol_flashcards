@@ -1,0 +1,7 @@
+Aegis of the Legion
+
+30 Armor
+30 Magic Resist
+10 Ability Haste
+
+Cost: 1500 (750)

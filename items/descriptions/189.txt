@@ -1,0 +1,11 @@
+Eclipse
+
+55 Attack Damage
+18 Lethality
+8% Omnivamp
+
+Ever Rising Moon: Hitting a champion with 2 separate Attacks or Abilities within 1.5 seconds deals an additional 6% max Health physical damage, grants you 15% Move Speed and a (150 + 40% bonus Attack Damage) Shield (100 + 30% bonus Attack Damage for ranged champions) for 2 seconds (8s cooldown, 16s cooldown for ranged champions).
+
+Mythic Passive: Grants all other Legendary items 4% Armor Penetration
+
+Cost: 3200 (850)

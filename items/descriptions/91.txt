@@ -1,0 +1,9 @@
+Frozen Heart
+
+70 Armor
+400 Mana
+20 Ability Haste
+Winter's Caress: Reduces the Attack Speed of nearby enemies by 15%.
+Rock Solid: Reduce incoming damage from Attacks by up to (0.5% max Health), capped at 40% of the Attack's damage.
+
+Cost: 2500 (600)

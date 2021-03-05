@@ -1,0 +1,11 @@
+Black Cleaver
+
+40 Attack Damage
+300 Health
+25 Ability Haste
+Carve: Dealing physical damage to a champion applies a stack of 4% Armor reduction for 6 seconds (max 24% Armor reduction).
+Butcher: Damaging Abilities and Attacks ( On-Hit) against fully Carved enemies deal an additional 5% missing Health physical damage.
+
+Damage over time effects deal 40% Butcher damage (0.5s cooldown).
+
+Cost: 3300 (1050)

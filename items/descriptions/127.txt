@@ -1,0 +1,5 @@
+Stealth Ward
+
+Active - Trinket: Place a Stealth Ward on the ground that lasts between 90 - 120 seconds, is Invisible to enemies but grants your team vision of the surrounding area. Stores up to 2 Stealth Wards, generating a new Ward every 240 - 120 seconds.
+
+Cost: 0 (0)

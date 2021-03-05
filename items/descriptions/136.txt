@@ -1,0 +1,8 @@
+Lost Chapter
+
+40 Ability Power
+300 Mana
+10 Ability Haste
+Enlighten: Upon levelling up, restores 20% max Mana over 3 seconds.
+
+Cost: 1300 (80)

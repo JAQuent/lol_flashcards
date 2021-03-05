@@ -1,0 +1,8 @@
+Bramble Vest
+
+35 Armor
+Thorns: When struck by an Attack, deal (3 + 10% bonus Armor) magic damage to the attacker and apply 40% Grievous Wounds for 3 seconds if they are a champion.
+
+Grievous Wounds reduces the effectiveness of Healing and Regeneration effects.
+
+Cost: 800 (200)

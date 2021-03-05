@@ -1,0 +1,9 @@
+Mercurial Scimitar
+
+40 Attack Damage
+20% Critical Strike Chance
+30 Magic Resist
+
+Active - Quicksilver: Remove all crowd control debuffs (excluding Airborne) and also gain 50% Move Speed for 1 second (90s cooldown).
+
+Cost: 3000 (225)

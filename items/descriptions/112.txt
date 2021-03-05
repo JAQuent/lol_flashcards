@@ -1,0 +1,7 @@
+Hexdrinker
+
+20 Attack Damage
+35 Magic Resist
+Lifeline: Upon taking magic damage that would reduce Health below 30%, gain 110 - 280 (based on level) magic damage Shield for 3 seconds (90s cooldown).
+
+Cost: 1300 (500)

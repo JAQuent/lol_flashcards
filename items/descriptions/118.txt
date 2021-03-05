@@ -1,0 +1,8 @@
+Umbral Glaive
+
+50 Attack Damage
+12 Lethality
+15 Ability Haste
+Blackout: When spotted by an enemy Ward, reveal traps and disable Wards around you for 8 seconds (45s cooldown). Your Attacks instantly kill revealed traps and do triple damage to Wards.
+
+Cost: 2600 (800)

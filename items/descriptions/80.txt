@@ -1,0 +1,7 @@
+Zeal
+
+18% Attack Speed
+15% Critical Strike Chance
+Zealous: Gain 7% Move Speed.
+
+Cost: 1050 (150)

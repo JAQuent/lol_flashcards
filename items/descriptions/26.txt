@@ -1,0 +1,10 @@
+Dark Seal
+
+15 Ability Power
+40 Health
+Glory: Gain 2 stacks for a champion kill or 1 stacks for an assist (up to 10 stacks total). Lose 4 stacks on death.
+Dread: Grants 5 Ability Power per stack of Glory.
+
+Obtained Glory stacks are preserved between this item and Mejai's Soulstealer.
+
+Cost: 350 (350)

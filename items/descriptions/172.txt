@@ -1,0 +1,13 @@
+Goredrinker
+
+45 Attack Damage
+400 Health
+20 Ability Haste
+150% Base Health Regen
+
+Active - Thirsting Slash: Deal (100% Attack Damage) physical damage to nearby enemies. Restore (25% Attack Damage + 8% missing Health) for each champion hit (15s cooldown, reduced by Ability Haste).
+Spite: Gain 1% Attack Damage for each 5% missing Health (max 15%).
+
+Mythic Passive: Grants all other Legendary items 5 Ability Haste.
+
+Cost: 3300 (200)

@@ -1,0 +1,6 @@
+Vampiric Scepter
+
+15 Attack Damage
+10% Life Steal
+
+Cost: 900 (550)

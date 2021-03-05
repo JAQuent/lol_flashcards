@@ -1,0 +1,14 @@
+Runesteel Spaulders
+
+6 Attack Damage
+100 Health
+50% Base Health Regen
+3 Gold Per 10 Seconds
+
+Active - Ward: Place a Stealth Ward on the ground that is Invisible to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop.
+Spoils of War: While nearby an allied champion, Attacks execute minions below 0% of their max Health. Killing a minion grants the same kill gold to the nearest allied champion. These effects recharge every 0 seconds (Max 0 charges).
+Quest: Earn 1000 gold from this item to transform it into Pauldrons of Whiterock.
+
+This item grants reduced gold from minions if you kill excessive numbers of them.
+
+Cost: 400 (400)

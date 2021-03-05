@@ -1,0 +1,7 @@
+Seeker's Armguard
+
+20 Ability Power
+15 Armor
+Witch's Path: Killing a unit grants 1 Armor (max 30).
+
+Cost: 1000 (265)

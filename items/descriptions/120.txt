@@ -1,0 +1,8 @@
+Guardian's Hammer
+
+25 Attack Damage
+150 Health
+10% Life Steal
+Legendary: This item counts as a Legendary item.
+
+Cost: 950 (950)

@@ -1,0 +1,7 @@
+Ironspike Whip
+
+30 Attack Damage
+
+Active - Crescent: Deal (75% Attack Damage) physical damage to nearby enemies. (15s cooldown, reduced by Ability Haste).
+
+Cost: 1200 (325)

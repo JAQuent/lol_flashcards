@@ -1,0 +1,11 @@
+Prowler's Claw
+
+60 Attack Damage
+21 Lethality
+20 Ability Haste
+
+Active - Sandswipe: Dash through target enemy, dealing (100 + 30% bonus Attack Damage) physical damage. For the next 3 seconds, you deal 15% increased damage to the target. (60s cooldown).
+
+Mythic Passive: Grants all other Legendary items 5 Lethality
+
+Cost: 3200 (1000)

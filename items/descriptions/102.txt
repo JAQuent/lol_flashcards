@@ -1,0 +1,6 @@
+Caulfield's Warhammer
+
+25 Attack Damage
+10 Ability Haste
+
+Cost: 1100 (400)

@@ -1,0 +1,7 @@
+Noonquiver
+
+30 Attack Damage
+15% Attack Speed
+Precision: Attacks deal an additional 20 physical damage to Minions and Monsters.
+
+Cost: 1300 (300)

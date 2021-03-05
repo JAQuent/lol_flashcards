@@ -1,0 +1,12 @@
+Redemption
+
+20% Heal and Shield Power
+200 Health
+15 Ability Haste
+100% Base Mana Regen
+
+Active - Intervention: Target an area within 5500 range. After 2.5 seconds, call down a beam of light to Restore 180 - 360 (scales with ally level) Health to allies and burn enemy champions for 10% max Health true damage (120s cooldown).
+
+Item can be activated whilst dead. Damage and healing reduced by 50% if the target has recently been affected by another Intervention. Strength of level-scaling effects are based on the ally's level.
+
+Cost: 2300 (700)

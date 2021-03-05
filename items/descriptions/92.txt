@@ -1,0 +1,9 @@
+Mercury's Treads
+
+25 Magic Resist
+45 Move Speed
+30% Tenacity
+
+Tenacity reduces the duration of Stun, Slow, Taunt, Fear, Silence, Blind, Polymorph and Immobilizing effects. It has no effect on Airborne or Suppression.
+
+Cost: 1100 (350)

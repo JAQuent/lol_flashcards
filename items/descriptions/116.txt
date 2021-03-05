@@ -1,0 +1,9 @@
+Morellonomicon
+
+80 Ability Power
+250 Health
+Affliction: Dealing magic damage applies 40% Grievous Wounds to enemy champions for 3 seconds. If the target is below 50% Health, this effect is increased to 60% Grievous Wounds.
+
+Grievous Wounds reduces the effectiveness of Healing and Regeneration effects.
+
+Cost: 2500 (450)

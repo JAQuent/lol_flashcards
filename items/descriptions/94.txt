@@ -1,0 +1,6 @@
+Aether Wisp
+
+30 Ability Power
+Glide: Gain 5% Move Speed.
+
+Cost: 850 (415)

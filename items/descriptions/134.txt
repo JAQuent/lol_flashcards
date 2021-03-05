@@ -1,0 +1,10 @@
+Titanic Hydra
+
+30 Attack Damage
+500 Health
+Colossus: Gain bonus Attack Damage equal to 1% max Health.
+Cleave: Attacks apply an additional (5 + 1.5% max Health) physical damage On-Hit, creating a shockwave that deals (40 + 3% max Health) physical damage to enemies behind the target.
+
+Deals 75% for Ranged users. On-Hit damage is also applied to Structures.
+
+Cost: 3300 (800)

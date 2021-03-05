@@ -1,0 +1,8 @@
+Quicksilver Sash
+
+30 Magic Resist
+
+Active - Quicksilver: Removes all crowd control debuffs (excluding Airborne) (90s cooldown).
+
+
+Cost: 1300 (850)

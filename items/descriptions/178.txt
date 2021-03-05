@@ -1,0 +1,6 @@
+Bami's Cinder
+
+300 Health
+Immolate : Taking or dealing damage causes you to begin dealing (15 + 1% bonus Health) magic damage per second to nearby enemies (increased by 25% against minions and 25% against monsters) for 3 seconds.
+
+Cost: 1100 (300)

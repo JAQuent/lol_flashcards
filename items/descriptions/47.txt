@@ -1,0 +1,6 @@
+Sorcerer's Shoes
+
+18 Magic Penetration
+45 Move Speed
+
+Cost: 1100 (800)

@@ -1,0 +1,12 @@
+Frostfire Gauntlet
+
+350 Health
+25 Armor
+25 Magic Resist
+20 Ability Haste
+Immolate : Taking or dealing damage causes you to begin dealing (20 - 40 (based on level) + 1% bonus Health) magic damage per second to nearby enemies (increased by 25% against minions and 150% against monsters) for 3 seconds.
+Snowbind: Attacks create a frost field for 1.5 seconds (4s cooldown). Enemies that move across the field are Slowed by 25% (increased by your max Health).
+
+Mythic Passive: Grants all other Legendary items 100 Health and 6% Size.
+
+Cost: 2800 (950)

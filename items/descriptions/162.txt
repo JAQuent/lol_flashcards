@@ -1,0 +1,9 @@
+Watchful Wardstone
+
+25 Ability Haste
+Arcane Cache: This item can store up to 3 purchased Control Wards.
+Behold: Increase your Stealth Ward and Control Ward placement caps by 1.
+
+Stealth Wards are placed from the Stealth Ward Trinket and the upgraded Unique: Support items.
+
+Cost: 1100 (0)

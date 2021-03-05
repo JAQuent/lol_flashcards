@@ -1,0 +1,8 @@
+Guardian's Blade
+
+30 Attack Damage
+150 Health
+15 Ability Haste
+Legendary: This item counts as a Legendary item.
+
+Cost: 950 (950)

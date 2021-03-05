@@ -1,0 +1,11 @@
+Youmuu's Ghostblade
+
+60 Attack Damage
+18 Lethality
+
+Active - Wraith Step: Gain 20% Move Speed and Ghosting for 6 seconds (45s cooldown).
+Haunt: Gain 40 Move Speed out of combat.
+
+Ghosted units ignore collision with other units.
+
+Cost: 3000 (1025)

@@ -1,0 +1,9 @@
+Silvermere Dawn
+
+40 Attack Damage
+300 Health
+35 Magic Resist
+
+Active - Quicksilver: Remove all crowd control debuffs (excluding Airborne) and gain 40% Tenacity and 40% Slow Resistance for 3 seconds (90s cooldown).
+
+Cost: 3000 (425)

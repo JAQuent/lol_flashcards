@@ -1,0 +1,8 @@
+Serylda's Grudge
+
+45 Attack Damage
+30% Armor Penetration
+20 Ability Haste
+Bitter Cold: Damaging Abilities Slow enemies by 30% for 1 second.
+
+Cost: 3400 (850)

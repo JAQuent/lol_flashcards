@@ -1,0 +1,5 @@
+Farsight Alteration
+
+Active - Trinket: Reveals an area and places a visible, fragile Ward up to 4000 units away. Allies cannot target this Ward with Summoner Spells or Abilities (198 - 99s cooldown).
+
+Cost: 0 (0)

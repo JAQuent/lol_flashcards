@@ -1,0 +1,6 @@
+Hextech Alternator
+
+40 Ability Power
+Revved: Damaging a champion deals an additional 50 - 125 (based on level) magic damage (40s cooldown).
+
+Cost: 1050 (180)
