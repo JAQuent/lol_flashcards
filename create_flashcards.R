@@ -28,7 +28,7 @@ for(i in 1:n){
   string    <- readChar(file2load, file.info(file2load)$size)
   # Replace \n & \r
   string    <- gsub("\n", "<br>", string)
-  string    <- gsub("\r", "<br>", string)
+  string    <- gsub("\r", "", string)
   
   # Add backside to df
   df$back[i] <- string
